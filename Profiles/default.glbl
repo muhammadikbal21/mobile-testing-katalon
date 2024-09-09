@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>G_Timeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Your message has been sent. View message'</initValue>
+      <name>G_NotificationMessage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>G_ShortTimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'id.zicare.rsudmrhpthapps.dev'</initValue>
+      <name>RSMerPut_AppPackage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'id.zicare.rsudmrhpthapps.MainActivity'</initValue>
+      <name>RSMerPut_AppActivity</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'androidapp/merputnewapps.apk'</initValue>
+      <name>RSMerPut_AppPath</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
